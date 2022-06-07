@@ -1,6 +1,24 @@
 {
-    "hard skills": "Knowledge of software testing types methodologies and techniques, Familiarity with certain bug tracking and test management tools, Understanding of different SDLC (Software development lifecycle), models Knowledge of a particular programming language (for test automation)",
-    "soft skills": "Communication, Organized, Proactive, and Results Driven Problem Solving, Adaptability, Team Player & Great Attitude, Eagerness to Learn"
-
+   "hard skills":[
+      "Knowledge of software",
+      "testing types",
+      "methodologies",
+      "techniques",
+      "Familiarity with certain bug tracking",
+      "test management tools",
+      "Understanding of different SDLC",
+      "models Knowledge of a particular programming language (for test automation)"
+   ],
+   "soft skills":[
+      "Communication",
+      "Organized",
+      "Proactive",
+      "Results Driven",
+      "Problem Solving",
+      "Adaptability",
+      "Team Player",
+      "Great Attitude",
+      "Eagerness to Learn"
+   ]
 }
 
